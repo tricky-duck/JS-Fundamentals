@@ -1,8 +1,8 @@
 //objects 
 
 var customer = {
-    firstName: "Ivan",
-    lastName: "Petrov",
+    firstName: "Sam",
+    lastName: "Pereira",
     cars: ["Volvo", "Toyota", "Tesla"]
 }
 console.log(customer.firstName, customer['lastName'], customer.cars[1])
